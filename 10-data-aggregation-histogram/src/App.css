@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: "Poppins", sans-serif;
+    background-color: #333;
+}
+pre {
+    font-size: 7em;
+}
+.tick line {
+    stroke: #f0f0f0;
+}
+.tick text {
+    fill: #b4b4b4;
+}
+.mark {
+    fill: #33a9af;
+}
+.axis-label {
+    font-size: 2.2em;
+    fill: #cccccc;
+}
